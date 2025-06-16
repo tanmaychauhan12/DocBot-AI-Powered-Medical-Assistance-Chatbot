@@ -1,1 +1,1 @@
-# DocBot-AI-Powered-Mediacal-Assistance-Chatbot
+# DocBot-AI-Powered-Medical-Assistance-Chatbot
